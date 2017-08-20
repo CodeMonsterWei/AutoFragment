@@ -14,7 +14,7 @@
 > * [顯示類型](#顯示類型)
 > * [修改類型](#修改類型)
  * [使用畫面](#使用畫面)
-> * [仰賴LinearLayout](#仰賴LinearLayout)
+> * [依賴LinearLayout](#依賴LinearLayout)
 > * [基本使用](#基本使用)
 > * [基本使用2](#基本使用2)
 > * [快速使用](#快速使用)
@@ -78,7 +78,7 @@
 
 # 使用畫面：
 
-## 仰賴LinearLayout：
+## 依賴LinearLayout：
 
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed27/20244996/1169421603_x.jpg)
 
