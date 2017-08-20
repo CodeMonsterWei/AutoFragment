@@ -14,7 +14,7 @@
 > * [顯示類型](#顯示類型)
 > * [修改類型](#修改類型)
  * [使用畫面](#使用畫面)
-> * [依賴LinearLayout](#依賴LinearLayout)
+> * [依賴LinearLayout畫面](#依賴LinearLayout畫面)
 > * [基本使用](#基本使用)
 > * [基本使用2](#基本使用2)
 > * [快速使用](#快速使用)
@@ -49,7 +49,7 @@
 
 ```
     添加依賴的Layout： setRelyLayout(LinearLayout relyLayout)
-                      必續添加 否則無畫面
+                      必須添加 否則無畫面
     新增Tap文字： setTagTextArray(String[] textArray)
                  與 setTagIconArray 可擇一或同時使用
     新增Tap圖片： setTagIconArray(int[] iconIdArray)
@@ -57,7 +57,7 @@
     新增Fragment畫面： setFragmentView(Fragment[] v4AppFragment)
                       需與 Tab 或 Icon 數量相同
     建立Fragment畫面： startUp()
-                      完成設定後建立 Fragment
+                      完成設定後建立 Fragment
 ```
 
 ## 修改類型：
@@ -78,7 +78,7 @@
 
 # 使用畫面：
 
-## 依賴LinearLayout：
+## 依賴LinearLayout畫面：
 
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed27/20244996/1169421603_x.jpg)
 
